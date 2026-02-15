@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#root{
+    width: 500px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    background-color: azure;
+    text-align: center;
+}
+button{
+    width:70px;
+    height:40px;
+    margin-right: 10px;
+}

@@ -1,0 +1,18 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#heading{
+    height:300px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(70, 70, 190);
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}

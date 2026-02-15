@@ -1,0 +1,26 @@
+{
+  "name": "reactbasic",
+  "version": "1.0.0",
+  "description": "\"learning React\"",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanp0603/alpha.git"
+  },
+  "author": "amankumar pandit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanp0603/alpha/issues"
+  },
+  "homepage": "https://github.com/amanp0603/alpha#readme",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}

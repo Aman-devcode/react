@@ -1,0 +1,2 @@
+const arry=[{cloth:"Tshirt's",offer:"20-30%off"},{cloth:"Shirt's",offer:"20-40%off"},{cloth:"pant",offer:"20-60%off"},{cloth:"Shoes",offer:"20-80%off"},{cloth:"Kurta",offer:"30-50%off"},{cloth:"Sweeter",offer:"40-80%off"},{cloth:"Coat",offer:"20-30%off"},{cloth:"Tshirt's",offer:"20-30%off"},{cloth:"Tshirt's",offer:"20-30%off"}];
+export default arry;

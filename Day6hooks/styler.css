@@ -1,0 +1,27 @@
+body{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+   background-color: black;
+}
+#root{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.first{
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+}
+button{
+    font-size: medium;
+    margin: 20px;
+    height: 40px;
+    width: auto;
+    border:2px solid rgb(126, 126, 231);
+    background-color: rgb(184, 133, 71);
+}
